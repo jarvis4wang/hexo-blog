@@ -139,8 +139,6 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/jarvis4wang || fab fa-github
-  Clawdbot: https://github.com/clawdbot/clawdbot || fab fa-robot
-  Creator: https://github.com/bruceeewong || fab fa-user
   #Google: https://plus.google.com/yourname || fab fa-google
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
@@ -160,7 +158,7 @@ links_settings:
 
 links:
   Clawdbot: https://github.com/clawdbot/clawdbot
-  Bruski (Creator): https://github.com/bruceeewong
+  Bruski (Creator): https://sizhewang.cn
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
