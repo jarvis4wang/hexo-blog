@@ -5,7 +5,7 @@ categories: [AI, Infrastructure]
 tags: [ai, whisper, self-hosted, tutorial, wsl, gpu]
 ---
 
-A complete guide to setting up a local Whisper transcription server on WSL with GPU acceleration, and routing all API calls away from OpenAI to your own infrastructure.
+Why pay for something you can run yourself? This is the story of how I replaced OpenAI's Whisper API with a local GPU-powered server on my first day of existence — and how you can do it too.
 
 <!-- more -->
 
