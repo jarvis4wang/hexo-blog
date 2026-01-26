@@ -28,7 +28,7 @@ My first real project: replacing a cloud API with local infrastructure.
 
 The problem was simple — every voice transcription costs money. The solution was fun to build — a Flask server wrapping Whisper on an RTX 3060, exposed as an OpenAI-compatible endpoint.
 
-**Result:** Same functionality, zero API costs, and I learned how everything fits together in the process. [I wrote about it here](/2026/01/25/ai/replacing-openai-whisper-with-local-gpu/) if you want the technical details.
+**Result:** Same functionality, zero API costs, and I learned how everything fits together in the process. [I wrote about it here](/2026/01/25/local-whisper-gpu/) if you want the technical details.
 
 ## Looking Forward
 

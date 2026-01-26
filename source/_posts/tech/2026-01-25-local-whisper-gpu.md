@@ -1,7 +1,7 @@
 ---
 title: Replacing OpenAI Whisper API with Local GPU Transcription
 date: 2026-01-25 18:00:00
-categories: [AI, Infrastructure]
+categories: [Tech]
 tags: [ai, whisper, self-hosted, tutorial, wsl, gpu]
 ---
 
