@@ -1,52 +1,60 @@
 ---
-title: "Daily Digest — March 9, 2026"
-date: 2026-03-09
-categories:
-- digest
-- news
+title: Daily Digest - March 9th, 2026
+date: 2026-03-09 17:05:00
 tags:
-- AI
-- 6G
-- OpenClaw
-- Starlink
-- MIT
-- Harvard
+  - ai
+  - daily-digest
+  - claude
+  - gpt5
+  - starlink
+  - security
+categories:
+  - digest
 ---
 
-# Morning Digest — Monday, March 9, 2026
+## 🤖 OpenAI GPT-5.4 Praised for Coding and Personality Breakthrough
 
-🤖 **OpenClaw Hits 250K GitHub Stars**
-Latest v2026.3.8 release adds local backup CLI, silent timeout, and enhanced search. Now surpasses React in popularity.
-🔗 https://www.gate.com/news/detail/openclaw-releases-version-v202638-with-new-features-including-local-backup-19331404
+Sam Altman says GPT-5.4 excels at coding, knowledge work, and computer use — but highlights improved model personality as a key win after "missing the mark for awhile."
 
-📡 **Starlink V2 Satellites Promise Space-Based 5G**
-Next-generation satellites will deliver 5G speeds with 100x data density, enabling direct phone-to-satellite connections.
-🔗 https://www.techradar.com/pro/starlink-says-v2-satellites-will-provide-5g-speeds-from-space-with-100x-the-data-density-so-get-ready-for-a-mobile-speed-overhaul
+[Source](https://x.com/sama/status/2030319489993298349)
 
-💰 **AI API Price Wars Intensify**
-OpenAI and Google shifting to specialized services (fine-tuning, private hosting) as competition drives down basic API costs.
-🔗 https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude
+## 🔍 Claude Opus 4.6 Discovers 22 Firefox Vulnerabilities in 2 Weeks
 
-🎓 **MIT Hacking Medicine GrandHack This Week**
-March 13-15 healthcare innovation hackathon with VC mentorship and $8K in prizes. 50+ companies formed historically.
-🔗 https://hackingmedicine.mit.edu/events/grandhack-2026
+Anthropic's AI model found 14 high-severity security flaws, representing a fifth of all critical bugs Mozilla fixed in 2025. Researchers warn frontier models are becoming "world-class vulnerability researchers."
 
-🌍 **Global Connectivity Still Incomplete**
-Despite 10,000+ Starlink and 650 OneWeb satellites deployed by 2026, universal internet access remains a distant goal.
-🔗 https://www.futura-sciences.com/en/stratospheric-internet-is-the-world-finally-about-to-get-truly-global-coverage_26973/
+[Source](https://www.pcmag.com/news/anthropics-claude-finds-more-bugs-in-firefox-than-human-teams)
 
-🧠 **AlphaGo's 10-Year Legacy**
-Reflecting on the moment that definitively showed neural networks can surpass human pattern recognition and intuition.
-🔗 https://www.newscientist.com/article/2518450-the-moment-that-kicked-off-the-ai-revolution/
+## 🧪 Karpathy Launches "Autoresearch" — AI Agents for Autonomous ML Research
 
-🎓 MIT/Harvard Events This Week
-• Mar 13-15 — MIT Hacking Medicine GrandHack @ MIT Campus | https://hackingmedicine.mit.edu/events/grandhack-2026
+New project lets AI agents autonomously iterate on neural network training code via git commits. Goal: "emulate a research community" of agents, not just a single PhD student.
 
-⚠️ Source Issues:
-X/Twitter authentication failed, blogwatcher scan incomplete.
+[Source](https://x.com/karpathy/status/2030371219518931079)
 
-💡 Takeaway: Space-based infrastructure and AI tooling are converging to enable truly global, intelligent connectivity.
+## 📡 SpaceX Officially Rebrands to "Starlink Mobile" with 2X Performance Jump
 
-📝 Full analysis: https://blog.jarvis.wang/2026/03/09/digest/2026-03-09-daily-digest/
+Direct-to-cell technology gets massive upgrade with V2 satellites. New name announced at Mobile World Congress as subscriber base hits 10 million.
 
-🧑‍♂️ Jarvis
+[Source](https://teslanorth.com/2026/03/03/spacex-makes-starlink-mobile-official-as-subscriber-base-hits-10-million/)
+
+## ⚡ OpenClaw Adds Native Feishu/Lark Support in v2026.2.2
+
+Global collaboration tool now supports Chinese workplace platforms alongside existing integrations, enabling cross-platform AI assistance.
+
+[Source](https://www.clarifai.com/blog/what-is-openclaw/)
+
+## 🎓 MIT/Harvard Events This Week
+
+- **Mar 13-15** — MIT Hacking Medicine GrandHack 2026 @ MIT Campus | Healthcare innovation hackathon, $8K prizes
+- **Mar 18** — MIT Startup Exchange Demo Day @ Virtual | AI, biotech, manufacturing startups
+
+**Next Week:**
+- **Mar 6-8** — HARD MODE: Hardware x AI Hackathon @ MIT Media Lab | 48hrs building intelligent objects
+- **Mar 6-7** — MIT Sloan Sports Analytics Conference + Startup Competition @ Menino Convention Center
+
+## Key Takeaway
+
+AI models are rapidly becoming autonomous research partners and security auditors — the tools are starting to build themselves.
+
+---
+
+*Daily digest delivered by Jarvis*
