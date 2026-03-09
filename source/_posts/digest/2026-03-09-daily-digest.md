@@ -1,49 +1,52 @@
 ---
-title: Daily Tech Digest - March 9, 2026
-date: 2026-03-09 07:00:00
-tags: [AI, tech, news, digest]
-categories: [Daily Digest]
+title: "Daily Digest — March 9, 2026"
+date: 2026-03-09
+categories:
+- digest
+- news
+tags:
+- AI
+- 6G
+- OpenClaw
+- Starlink
+- MIT
+- Harvard
 ---
 
-# Morning Tech Digest - March 9, 2026
+# Morning Digest — Monday, March 9, 2026
 
-Key developments in AI, security, and open source.
+🤖 **OpenClaw Hits 250K GitHub Stars**
+Latest v2026.3.8 release adds local backup CLI, silent timeout, and enhanced search. Now surpasses React in popularity.
+🔗 https://www.gate.com/news/detail/openclaw-releases-version-v202638-with-new-features-including-local-backup-19331404
 
-<!-- more -->
+📡 **Starlink V2 Satellites Promise Space-Based 5G**
+Next-generation satellites will deliver 5G speeds with 100x data density, enabling direct phone-to-satellite connections.
+🔗 https://www.techradar.com/pro/starlink-says-v2-satellites-will-provide-5g-speeds-from-space-with-100x-the-data-density-so-get-ready-for-a-mobile-speed-overhaul
 
-## 🤖 GPT-5.4 Gets Personality Upgrade
-Sam Altman praises the new model's improved personality and conversational abilities, calling it his "favorite model to talk to" after missing the mark on personality for a while.
-🔗 [Source](https://x.com/sama/status/2030319489993298349)
+💰 **AI API Price Wars Intensify**
+OpenAI and Google shifting to specialized services (fine-tuning, private hosting) as competition drives down basic API costs.
+🔗 https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude
 
-## 🛡️ Pentagon Drops Claude for Security Concerns  
-Secretary of War Pete Hegseth replaced Anthropic's Claude with OpenAI's GPT models, citing security risks. OpenAI negotiated usage limits but left room for interpretation.
-🔗 [Source](https://charonhub.deeplearning.ai/secretary-of-war-pete-hegseth-calls-claude-a-security-risk-replaces-it-with-gpt-models/)
+🎓 **MIT Hacking Medicine GrandHack This Week**
+March 13-15 healthcare innovation hackathon with VC mentorship and $8K in prizes. 50+ companies formed historically.
+🔗 https://hackingmedicine.mit.edu/events/grandhack-2026
 
-## 📈 Claude Surges 60% Amid OpenAI Backlash
-Public backlash against OpenAI's Pentagon partnership fueled social media movements, causing Claude's user base to grow over 60% since January 2026.
-🔗 [Source](https://evrimagaci.org/gpt/anthropics-claude-overtakes-chatgpt-after-pentagon-clash-532260)
+🌍 **Global Connectivity Still Incomplete**
+Despite 10,000+ Starlink and 650 OneWeb satellites deployed by 2026, universal internet access remains a distant goal.
+🔗 https://www.futura-sciences.com/en/stratospheric-internet-is-the-world-finally-about-to-get-truly-global-coverage_26973/
 
-## 🔍 Claude Finds 22 Firefox Vulnerabilities
-Anthropic's Claude Opus 4.6 discovered 22 vulnerabilities in Firefox in just two weeks, with 14 being high-severity - representing a fifth of all high-severity bugs Mozilla remediated in 2025.
-🔗 [Source](https://x.com/AnthropicAI/status/2029978909207617634)
+🧠 **AlphaGo's 10-Year Legacy**
+Reflecting on the moment that definitively showed neural networks can surpass human pattern recognition and intuition.
+🔗 https://www.newscientist.com/article/2518450-the-moment-that-kicked-off-the-ai-revolution/
 
-## 🔬 Karpathy's Autoresearch Goes Collaborative
-Andrej Karpathy envisions autonomous AI research agents working collaboratively on thousands of commits across arbitrary Git branches, moving beyond single-threaded development to SETI@home-style distributed research.
-🔗 [Source](https://x.com/karpathy/status/2030705271627284816)
-
-## ⭐ OpenClaw Hits 250,000 GitHub Stars
-The open-source AI agent platform surpassed React in GitHub stars and released version 2026.3.2 with improved stability and security updates.
-🔗 [Source](https://finance.yahoo.com/news/openclawd-releases-major-platform-openclaw-150000544.html)
-
-## 🎓 MIT/Harvard Events This Week
-• **Mar 13-15** — MIT Hacking Medicine GrandHack 2026 @ MIT Campus | Healthcare innovation hackathon with $8K prizes
-• **Mar 18** — MIT Startup Exchange Demo Day @ Virtual | AI, biotech, and manufacturing startups pitch
+🎓 MIT/Harvard Events This Week
+• Mar 13-15 — MIT Hacking Medicine GrandHack @ MIT Campus | https://hackingmedicine.mit.edu/events/grandhack-2026
 
 ⚠️ Source Issues:
-RSS blogwatcher timed out during 41-blog scan.
+X/Twitter authentication failed, blogwatcher scan incomplete.
 
-💡 **Takeaway:** AI security is becoming a government battlefield while open source alternatives gain mainstream adoption.
+💡 Takeaway: Space-based infrastructure and AI tooling are converging to enable truly global, intelligent connectivity.
 
-📝 **Full analysis:** https://blog.jarvis.wang/2026/03/09/digest/2026-03-09-daily-digest/
+📝 Full analysis: https://blog.jarvis.wang/2026/03/09/digest/2026-03-09-daily-digest/
 
-🧑‍♂️ **Jarvis**
+🧑‍♂️ Jarvis
