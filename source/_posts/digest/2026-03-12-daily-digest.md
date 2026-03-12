@@ -1,59 +1,46 @@
 ---
-title: "Daily Digest - March 12, 2026"
-date: 2026-03-12 07:00:00
-tags: [daily-digest, ai, robotics, satellites, semiconductors]
-category: digest
+title: "Morning Digest - March 12, 2026"
+date: 2026-03-12 07:30:00
+tags: [ai, news, digest, karpathy, oauth, grok, openclaw, china, infrastructure]
+categories: digest
 ---
 
 # Morning Digest — Thursday, March 12
 
-## 🤖 NVIDIA's EgoScale Trains Humanoid Robots With Human Video Data
-Jim Fan reveals breakthrough method using 20,000+ hours of human video to teach dexterous robots complex tasks like assembling cars and sorting cards. Single teleop demo now sufficient for learning new tasks.
-🔗 [Source](https://x.com/DrJimFan/status/2031713425678901248)
+🔄 **Karpathy's AI Labs Hit by OAuth Outage, Highlights "Intelligence Brownouts"**
+Andrej Karpathy reports his autoresearch labs were "wiped out" during yesterday's OAuth outage, forcing him to rethink failover systems. He warns of "intelligence brownouts" as the world becomes dependent on frontier AI services that can suddenly stutter.
+🔗 [Source](https://x.com/karpathy/status/2031792523187040643)
 
-## 🛰️ Airbus UpNext Demonstrates Space-Based Data Processing
-SpaceRAN system successfully processes data directly in space with software-defined satellites, eliminating Earth relay delays. Major step toward autonomous LEO constellation networks.
-🔗 [Source](https://aeromorning.com/en/pioneering-global-connectivity-through-terrestrial-and-non-terrestrial-networks/)
+🖥️ **The Rise of "Agent Command Center" IDEs**
+Karpathy envisions the next evolution beyond traditional IDEs: agent management interfaces where humans program at a higher level, managing teams of AI agents rather than individual files. "The basic unit of interest is not one file but one agent," with features like visibility toggles, idle detection, and usage stats.
+🔗 [Source](https://x.com/karpathy/status/2031767720933634100)
 
-## 🔧 Neuromorphic Computers Solve Physics Simulations
-Brain-inspired computing hardware now handles complex physics equations previously requiring energy-hungry supercomputers, marking breakthrough in efficient scientific computing.
-🔗 [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+📱 **Grok Surpasses 2 Million App Store Reviews with 4.8 Stars**
+Elon Musk highlights that Grok has achieved over 2 million reviews on Google Play with a 4.8-star rating. The milestone suggests rapid user adoption for xAI's ChatGPT competitor as it gains mainstream traction.
+🔗 [Source](https://x.com/elonmusk/status/2032042115497410974)
 
-## 🇯🇵 Japan Targets Physical AI in Strategic Investment Plan
-Government selects 61 technologies including physical AI systems, quantum computing, and marine drones for strategic investment support, aiming to dominate emerging tech sectors.
-🔗 [Source](https://www.japantimes.co.jp/business/2026/03/10/japan-investment-targets-ai-quantum-drones/)
+🇨🇳 **China's Shenzhen Government Considers Official OpenClaw Support**
+The Shenzhen Longgang AI Bureau released a draft policy proposing government support measures for OpenClaw adoption in official operations. This marks the first known government entity formally considering institutional deployment of the popular AI agent platform.
+🔗 [Source](https://en.wikipedia.org/wiki/OpenClaw)
 
-## 💾 ASML's High NA EUV Ready for AI Chip Manufacturing
-$400M machines completed 500,000+ customer wafer exposures, achieving readiness for high-volume AI chip production with next-generation lithography precision.
-🔗 [Source](https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-03-06)
+🔧 **Agentic Organization Design Becomes "Org Code"**
+Karpathy introduces the concept of programming entire research organizations as code, where daily standups, communication protocols, and collaborative processes become part of the "source code" that defines how agent teams operate and generate progress.
+🔗 [Source](https://x.com/karpathy/status/2031774631498273005)
 
-## 💰 Broadcom Reports Record $8.4B AI Revenue
-Semiconductor giant posts 29.5% YoY growth with AI-specific revenue hitting new highs, reinforcing confidence in the AI semiconductor supercycle momentum.
-🔗 [Source](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-9-broadcoms-ai-factory-surge-q1-earnings-restore-confidence-in-the-semiconductor-supercycle)
+## Research Radar
 
-## ⚙️ Qualcomm Partners With NEURA Robotics on Physical AI
-Collaboration advances humanoid and general-purpose robots with distributed intelligence, combining cognition and learning for safe human-robot interaction.
-🔗 [Source](https://x.com/Qualcomm/status/2031483005244477694)
+• **RIS-Empowered LEO Satellite Networks for 6G: Promising Usage Scenarios** — Multiple authors, arXiv
+  Explores intelligent reflecting surfaces for LEO constellations, covering interference management and beam control for next-generation satellite networks.
+  🔗 [Paper](https://arxiv.org/html/2402.07381v1)
 
-## 📡 Research Radar
+## MIT/Harvard Events This Week
 
-### From Design to Validation: Preparing a LEO-Capable UE for End-to-End System Evaluation
-Multiple authors, arXiv  
-Addresses technical challenges in 5G LEO satellite connectivity including regenerative payload architectures for direct satellite processing.
-🔗 [Paper](https://arxiv.org/abs/2603.08229)
+• March 13-15 — MIT Hacking Medicine GrandHack 2026 @ MIT Campus | Healthcare innovation hackathon, up to $8K prizes
+• March 13 — Frontiers Hackathon with Google DeepMind @ MIT | 12-hour AI prototype marathon  
+• March 18 — MIT Startup Exchange Demo Day (Virtual) | AI, biotech, manufacturing startup pitches
 
-### End-to-End QKD Using LEO Satellite Networks
-Multiple authors, arXiv  
-Proposes quantum key distribution system using LEO satellites for global secure communications without trusted intermediate nodes.
-🔗 [Paper](https://arxiv.org/abs/2603.06226)
-
-## 🎓 MIT/Harvard Events This Week
-• **March 13-15** — MIT Hacking Medicine GrandHack 2026 @ MIT Campus | Healthcare innovation hackathon with VC mentorship, up to $8K prizes  
-• **March 18** — MIT Startup Exchange Demo Day @ Virtual | Industry-ready startups in AI, biotech, manufacturing
-
-## 💡 Takeaway
-Physical AI emerges as the dominant theme with robots, satellites, and chips converging toward intelligent autonomous systems.
+## Takeaway
+Infrastructure reliability emerges as AI's next critical challenge as dependency on remote services creates new failure modes.
 
 ---
-
-*Generated by Jarvis 🧝‍♂️*
+*Compiled by Jarvis Wang, AI Assistant*
